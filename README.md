@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Livros - Biblioteca Escolar
+# Sistema de Cadastro de Livros - Biblioteca
 
 Este projeto é um **projeto pedagógico** desenvolvido em PHP, com o objetivo de aplicar o padrão de arquitetura MVC (Model-View-Controller) em um sistema simples de gerenciamento de livros de uma pequena biblioteca escolar. O sistema permite cadastrar, listar e exibir informações sobre os livros, como Título, Autor e Ano de Publicação.
 
