@@ -1,0 +1,42 @@
+/* Paleta suave: bege + rosa queimado */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fdf6f0; /* bege claro */
+    color: #4a3f35; /* marrom suave */
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #a0524d; /* rosa queimado */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f6e8dc; /* bege mais escuro */
+    margin-bottom: 10px;
+    padding: 12px;
+    border-radius: 8px;
+    border-left: 5px solid #a0524d;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: background-color 0.3s ease;
+}
+
+li:hover {
+    background-color: #f0dcd0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #a0524d;
+}
