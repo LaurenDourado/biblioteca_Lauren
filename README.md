@@ -31,8 +31,10 @@ public function listarLivros() {
     return $this->livros;
 }
 
-## Página finalizada
+```
 
-![image](https://github.com/user-attachments/assets/6f85a133-91a1-49ea-b3d8-65d6b4dd2990)
+## Página finalizada
+![image](https://github.com/user-attachments/assets/1d37a260-5ab3-44c0-9d3b-6a001c11ee07)
+
 
 
